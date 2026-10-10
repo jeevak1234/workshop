@@ -1,0 +1,35 @@
+
+<!-- Git Workshop Experience Section -->
+<section id="workshop">
+    <h2 class="section-title">My Git Workshop Experience</h2>
+
+    <div class="card">
+        <img
+            src="git-workshop.png"
+            alt="My Git Workshop Experience"
+            style="width:100%; max-width:900px; display:block;
+                   margin:0 auto 20px; border-radius:10px;"
+        >
+
+        <h3>From Git Confusion to Confidence 🚀</h3>
+
+        <p>
+            I participated in a Git workshop that helped me understand
+            version control and GitHub. I learned how to create a repository,
+            stage changes, commit code, push projects to GitHub, and
+            understand merge conflicts.
+        </p>
+
+        <p>
+            This experience improved my confidence in using Git and
+            motivated me to continue learning software development
+            and contributing to projects.
+        </p>
+
+        <p><strong>Key Learnings:</strong></p>
+        <p>
+            Git Basics | Repository Management | Commits |
+            GitHub | Version Control
+        </p>
+    </div>
+</section>
